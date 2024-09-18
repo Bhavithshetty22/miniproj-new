@@ -1,1 +1,1 @@
-# miniproj-new
+# minit
